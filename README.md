@@ -21,12 +21,7 @@
 - Acompanhar lives na Twitch
 - Praticar novas línguas
 
-</br>
-</br>
-</br>
-<div>
-  
-# Conhecimentos
+# Conhecimentos 
 -
     <p align="center"> Linguagens:</p>
     <p align="center">
@@ -74,11 +69,8 @@
   </p>
 </details>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=saraaliice&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Sara Alice github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraaliice&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
 
+## Status
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saraaliice&bg_color=0d1117&color=ffffff&line=f28282&point=f28282&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -96,3 +88,5 @@
  </div>
     </p>   
 </details>  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcfe9&height=120&section=footer"/>
