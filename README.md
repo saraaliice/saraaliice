@@ -7,7 +7,7 @@
 
 ### Meu nome é Sara Alice, Tenho 23 anos e Sou estudante de Análise e Desenvolvimento de Sistemas.
 
-<img hight="400" width="400" alt="GIF" align="right" src="https://cdn.discordapp.com/attachments/988904705117798463/1172715171530162226/Gifs.gif?ex=6561531c&is=654ede1c&hm=ca27bdfc10e39e3b414923b1d2515154fdb653b93f91dc6a0eb9915770085471&">
+<img hight="400" width="400" alt="GIF" align="right" src="https://cdn.discordapp.com/attachments/988904705117798463/1172724591781761075/Gifs.gif?ex=65615be2&is=654ee6e2&hm=a853892e22fd54ea9ef0f29fc9f3a54e8665d3b64ae4b28493fc707f10ad6ef5&">
 
 ### Aprendizado:
 - Introdução à Ciência da Computação
