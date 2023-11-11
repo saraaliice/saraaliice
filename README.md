@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcfe9&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fb9aaf&height=120&section=header"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcb3b3&size=35&center=true&vCenter=true&width=1000&lines=print("Hello,world");Bem+Vindos+ao+Meu+Portfólio!+:%29)](https://git.io/typing-svg)
@@ -41,8 +41,8 @@
  <p align="center">Banco de Dados:
   </p>
   <p align="center"> 
-    <a href="https://www.brmodeloweb.com/lang/pt-br/index.html" target="_blank" rel="noreferrer"> <alt="brmodelo" width="40" height="40"/></a>
-    <a href="https://sqlitebrowser.org/" target="_blank" rel="noreferrer"> <alt="db browser" width="40" height="40"/></a> 
+    <a href="https://www.brmodeloweb.com/lang/pt-br/index.html" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/988904705117798463/1172723085904990288/1ea2a29278d9b611422b2e3cc7bd2e76.png?ex=65615a7b&is=654ee57b&hm=a86896aef0cce661165c724b121dd844cb7c34b4109a801d4afaae008a4bbd05&"<alt="brmodelo" width="40" height="40"/></a>
+    <a href="https://sqlitebrowser.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/988904705117798463/1172723304575025303/db-browser-for-sqlite-logo.png?ex=65615aaf&is=654ee5af&hm=45b468a2830b450df05223f3ae8fd1176b9593e2059ba29bc66cf66b57ae3cf9&" <alt="db browser" width="40" height="40"/></a> 
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   </p>
@@ -54,7 +54,7 @@
     <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/></a>
     <a href="https://trello.com/pt-BR" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg" alt="trello" width="40" height="40"/></a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-    <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="hhttps://upload.vectorlogo.zone/logos/notionso/images/d9327abc-21be-4790-8a5f-752d9c12e33d.svg" alt="notion" width="40" height="40"/></a> 
+    <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/notionso/images/d9327abc-21be-4790-8a5f-752d9c12e33d.svg" alt="notion" width="40" height="40"/></a> 
   </p>
   <br>
   <p align="center">Aplicações:
@@ -89,4 +89,4 @@
     </p>   
 </details>  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffcfe9&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fb9aaf&height=120&section=footer"/>
