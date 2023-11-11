@@ -5,17 +5,17 @@
 
 # Sobre mim :
 
-### Meu nome é Sara Alice, Tenho 23 anos e Sou estudante de Análise e Desenvolvimento de Sistemas.
+# Meu nome é Sara Alice, Tenho 23 anos e Sou estudante de Análise e Desenvolvimento de Sistemas.
 
 <img hight="400" width="400" alt="GIF" align="right" src="https://cdn.discordapp.com/attachments/988904705117798463/1172724591781761075/Gifs.gif?ex=65615be2&is=654ee6e2&hm=a853892e22fd54ea9ef0f29fc9f3a54e8665d3b64ae4b28493fc707f10ad6ef5&">
 
-### Aprendizado:
+# Aprendizado:
 - Introdução à Ciência da Computação
 - Linguagem de Programação Python
 - Introdução ao uso de Banco de Dados e SQL
 - Lógica de Programação
  
-### Hobbies : 
+# Hobbies : 
 - Jogos Online
 - Assistir séries/filmes/animes
 - Acompanhar lives na Twitch
@@ -70,7 +70,7 @@
 </details>
 
 
-## Status
+# Status
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saraaliice&bg_color=0d1117&color=ffffff&line=f28282&point=f28282&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -79,7 +79,7 @@
 </p>
 
 
-## Contatos
+# Contatos
 
    <div align="center"> 
 <a href="https://instagram.com/saraalicem" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
