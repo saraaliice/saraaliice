@@ -17,11 +17,10 @@
  
 
 # Projetos:
-
-
-
-
-
+- Banco de dados e SQL: Projeto Editora - Projeto Lógico - Projeto Biblioteca e Campanha Marketing
+- Java:
+- JavaScript: Gerador de Senhas aleatórias
+- HTML,CSS e JavaScript: Site Simples
 
 # Conhecimentos 
 -
