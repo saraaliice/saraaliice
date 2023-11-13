@@ -15,11 +15,6 @@
 - Introdução ao uso de Banco de Dados e SQL
 - Lógica de Programação
  
-# Hobbies : 
-- Jogos Online
-- Assistir séries/filmes/animes
-- Acompanhar lives na Twitch
-- Praticar novas línguas
 
 # Conhecimentos 
 -
