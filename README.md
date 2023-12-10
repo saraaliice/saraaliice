@@ -186,8 +186,6 @@ function gerarSenha() {
 
 </details>
 
-# Próximo Tópico
-
 # Conhecimentos 
 .
     <p align="center"> Linguagens:</p>
