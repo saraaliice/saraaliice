@@ -19,15 +19,11 @@
 # Projetos:
 # Banco de dados e SQL:
   
-- </details>
-  <details>
-    <summary>
-        <h3 align="center">Projeto Biblioteca</h3>
-    </summary>
-    <summary>
-        Projeto de desenvolvimento de Banco de dados de uma Biblioteca 
-    </summary>  
- <img src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_Biblioteca.png" alt="php" width="375" height="279"/>
+<details>
+  <summary>Projeto Biblioteca</summary>
+  <p>Projeto de desenvolvimento de Banco de dados de uma Biblioteca</p>
+  <img src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_Biblioteca.png" alt="Projeto Biblioteca" width="375" height="279"/>
+</details>
 - </details>
   <details>
     <summary>
