@@ -128,7 +128,10 @@
    </details>
 </details>
 
-# JavaScript: Gerador de Senhas aleatórias
+# JavaScript: 
+<details>
+  <summary>Gerador de Senhas aleatórias</summary>
+
 # HTML, CSS e JavaScript: Site Simples
 # Conhecimentos
  
