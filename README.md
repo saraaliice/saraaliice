@@ -131,15 +131,47 @@
 # JavaScript: 
 <details>
   <summary>Gerador de Senhas aleatórias</summary>
+ let comprimentoInput = document.getElementById("comprimento");
+let incluirNumeros = document.getElementById("incluirNumeros");
+let incluirLetrasMaiusculas = document.getElementById("incluirLetrasMaiusculas");
+let incluirLetrasMinusculas = document.getElementById("incluirLetrasMinusculas");
+let incluirSimbolos = document.getElementById("incluirSimbolos");
+let botaoGerar = document.getElementById("botaoGerar");
+let exibicaoSenha = document.getElementById("exibicaoSenha");
+
+botaoGerar.addEventListener("click", gerarSenha);
+
+function gerarSenha() {
+    let comprimento = comprimentoInput.value;
+    let numeros = "123456789";
+    let letrasMaiusculas = "ABCDEFGHIJKLMNOPQRSTUVWXZ";
+    let letrasMinusculas = "abcdefghijklmnopqrstuvwxz";
+    let simbolos = "!@#$%?*;+_^~";
+
+    let caracteres = "";
+
+    if (incluirNumeros.checked) caracteres += numeros;
+    if (incluirLetrasMaiusculas.checked) caracteres += letrasMaiusculas;
+    if (incluirLetrasMinusculas.checked) caracteres += letrasMinusculas;
+    if (incluirSimbolos.checked) caracteres += simbolos;
+
+    let senha = "";
+
+    for (let i = 0; i < comprimento; i++) {
+        const indiceAleatorio = Math.floor(Math.random() * caracteres.length);
+        senha += caracteres[indiceAleatorio];
+    }
+
+    exibicaoSenha.textContent = senha;
+}
+
 </details>
 
 # HTML, CSS e JavaScript: Site Simples
 <details>
   <summary>Site Simples</summary>
 </details>
-# Conhecimentos
- 
- 
+
 # Conhecimentos 
 -
     <p align="center"> Linguagens:</p>
