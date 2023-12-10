@@ -123,7 +123,131 @@ CREATE TABLE TBReserva
 
 <details>
   <summary>Projeto Lógico</summary>
-  <p>Projeto de desenvolvimento de Banco de dados</p>  
+  <p>Projeto de desenvolvimento de Banco de dados</p>
+	
+```SQL
+*/
+
+CREATE TABLE TBEstado (
+    IDUF                  varchar(2)      NOT NULL,
+    NomeEstado            varchar(50)     NOT NULL,
+    PRIMARY KEY(IDUF)
+);
+--------------------------------------------------------------
+
+--Cadastrar(inserir)dados em TBEstado
+insert into TBEstado values
+('SP','SÃO PAULO'),
+('RJ','RIO DE JANEIRO'),
+('PR','PARANA');
+--------------------------------------------------------------
+insert into TBEstado values
+('MS','MATO GROSSO DO SUL');
+---------------------------------------------------------------
+
+--Código para ver os registros
+Select*From TBEstado;
+
+--Criar a tabela TBCidade
+CREATE TABLE TBCidade 
+(
+	IDCidade	          INT          NOT NULL,
+	NomeCidade	      varchar(50)  NOT NULL,
+	CodUF	              varchar(2)   NOT NULL,
+	PRIMARY KEY(IDCidade),
+	FOREIGN KEY(CodUF) REFERENCES TBEstado(IDUF)
+);
+-------------------------------------------------------
+
+--Cadastro de Cidades(Linguagem SQL)
+Insert Into TBCidade VALUES
+(01,'SÃO JOSÉ DO RIO PRETO','SP'),
+(02,'CURITIBA','PR'),
+(03,'BUZIOS','RJ');
+--------------------------------------------------------
+--Registro não cadastro 
+Insert Into TBCidade VALUES
+(04,'CAMPO GRANDE','MS');
+--------------------------------------------------------
+--Criar Tabela TBDepartamento
+CREATE TABLE TBDepartamento 
+(
+	IDDepartamento	        INT            NOT NULL,
+	NomeDepartamento	        varchar(50)    NOT NULL,
+	OrcamentoDepartamento	    decimal(10, 2) NOT NULL,
+	PRIMARY KEY(IDDepartamento)
+);
+---------------------------------------------------------
+--Cadastrar 3 Departamentos
+Insert Into TBDepartamento Values
+(10,'Informatica',1500.50),
+(20,'Financeiro',30500.75),
+(30,'Recursos Humanos',50375.51);
+----------------------------------------------------------
+--Listar/Mostrar/Recuperar os Dados
+Select *from TBDepartamento
+----------------------------------------------------------
+--Criando a Tabela TBFuncionario
+CREATE TABLE TBFuncionario
+ (
+	IDFuncionario	         INT              NOT NULL,
+	NomeFuncionario	     varchar(50)      NOT NULL,
+	Telefone	             INT              NOT NULL,
+	CPF	                 INT              NOT NULL,
+	RG	                 varchar(12)      NOT NULL,
+	Email	                 varchar(30)      NOT NULL,
+	DataAdmissao	         date             NOT NULL,
+	Endereco	             varchar(50)      NOT NULL,
+	Numero	             INT              NOT NULL,
+	Bairro	             varchar(50)      NOT NULL,
+	CodDepartamento	     INT              NOT NULL,
+	CodCidade	             INT              NOT NULL,
+	PRIMARY KEY(IDFuncionario),
+	FOREIGN KEY(CodDepartamento) REFERENCES TBDepartamento(IDDepartamento),
+	FOREIGN KEY(CodCidade) REFERENCES TBCidade(IDCidade)
+);
+-----------------------------------------------------------------
+--Criar a Tabela TBEquipamento
+CREATE TABLE TBEquipamento
+ (
+	IDEquipamento	             INT             NOT NULL,
+	NomeEquipamento	         varchar(50)     NOT NULL,
+	DataCompra	             Date            NOT NULL,
+	ValorEquipamento	         decimal(10,2)   NOT NULL,
+	EstadoEquipamento	         varchar(300)    NOT NULL,
+	RequisitosSegurança	     varchar(200)    NOT NULL,
+	PRIMARY KEY(IDEquipamento)
+);
+-------------------------------------------------------------------
+--Criar a Tabela TBProjeto
+CREATE TABLE TBProjeto
+ (
+	IDProjeto           	   INT               NOT NULL,
+	DescricaoProjeto	       varchar(200)      NOT NULL,
+	DataInicioProjeto	       DateTime          NOT NULL,
+	DataFimProjeto	       DateTime          NOT NULL,
+	CustoGeralProjeto	       decimal(10, 2)    NOT NULL,
+	CodDepartamento	       INT               NOT NULL,
+	FOREIGN KEY(CodDepartamento) REFERENCES TBDepartamento(IDDepartamento),
+	PRIMARY KEY(IDProjeto)
+);
+----------------------------------------------------------------------
+--Criar a Tabela TBFuncionarioProjeto
+CREATE TABLE TBFuncionarioProjeto 
+(
+	CodFuncionario	             INT               NOT NULL,
+	CodEquipamento	             INT               NOT NULL,
+	CodProjeto	                 INT               NOT NULL,
+	Data	                         DateTime          NOT NULL,
+	DataInicio	                 date              NOT NULL,
+	DataFim	                     date              NOT NULL,
+	Custo	                         decimal(10,2)     NOT NULL,
+	FOREIGN KEY(CodFuncionario) REFERENCES TBFuncionario(IDFuncionario),
+	FOREIGN KEY(CodProjeto) REFERENCES TBProjeto(IDProjeto),
+	FOREIGN KEY(CodEquipamento) REFERENCES TBEquipamento(IDEquipamento),
+	PRIMARY KEY(CodFuncionario,CodEquipamento,CodProjeto,Data)
+);
+````
   <img src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_L%C3%B3gito.png" alt="Projeto Lógico" width="375" height="279"/>
 </details>
 
