@@ -131,7 +131,7 @@
 # JavaScript: 
 <details>
   <summary>Gerador de Senhas aleatórias</summary>
-
+ 
 ```javascript
 let comprimentoInput = document.getElementById("comprimento");
 let incluirNumeros = document.getElementById("incluirNumeros");
@@ -167,6 +167,7 @@ function gerarSenha() {
     exibicaoSenha.textContent = senha;
 }
 
+```
 </details>
 
 # HTML, CSS e JavaScript: Site Simples
