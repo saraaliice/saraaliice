@@ -62,7 +62,7 @@
             this.numeroDocumento = numeroDocumento;
             this.numeroTelefone = numeroTelefone;
         }
-    </details>
+   </details>
 
    <details>
       <summary>Projeto Voo</summary>
@@ -106,7 +106,7 @@
               System.out.println("Assentos Disponiveis: " + assentosDisponiveis);
           }
       }
-    </details>
+   </details>
 
    <details>
       <summary>Projeto Programa Principal</summary>
