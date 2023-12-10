@@ -134,6 +134,9 @@
 </details>
 
 # HTML, CSS e JavaScript: Site Simples
+<details>
+  <summary>Site Simples</summary>
+</details>
 # Conhecimentos
  
  
