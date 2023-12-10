@@ -8,7 +8,7 @@
 - Linguagem de Programação Python
 - Introdução ao uso de Banco de Dados e SQL
 - Lógica de Programação
-<img src="https://cdn.discordapp.com/attachments/988904705117798463/1172724591781761075/Gifs.gif?ex=65615be2&is=654ee6e2&hm=a853892e22fd54ea9ef0f29fc9f3a54e8665d3b64ae4b28493fc707f10ad6ef5&" alt="GIF" width="350" height="350" style="float: left;"/>
+<img src="https://cdn.discordapp.com/attachments/988904705117798463/1172724591781761075/Gifs.gif?ex=65615be2&is=654ee6e2&hm=a853892e22fd54ea9ef0f29fc9f3a54e8665d3b64ae4b28493fc707f10ad6ef5&" alt="GIF" width="350" height="350" style="float: right;"/>
 
 
 # Aprendizado:
