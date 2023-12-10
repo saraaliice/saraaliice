@@ -47,18 +47,20 @@
   <details>
   <summary>Projeto Passageiro</summary>
   <p>Construtor de classe Passageiro</p> 
-
-   Inicio:
    
-   public class Passageiro { private String nome; private string numeroDocumento; private String numeroTelefone;
+   public class Passageiro {
+    private String nome;
+    private String numeroDocumento;
+    private String numeroTelefone;
 
-// Construtor
-public Passageiro(String nome, String numeroDocumento, String numeroTelefone) {
-    this.nome = nome;
-    this.numeroDocumento = numeroDocumento;
-    this.numeroTelefone = numeroTelefone;
+    // Construtor
+    public Passageiro(String nome, String numeroDocumento, String numeroTelefone) {
+        this.nome = nome;
+        this.numeroDocumento = numeroDocumento;
+        this.numeroTelefone = numeroTelefone;
+    }
 }
-}
+
 </details>
   # JavaScript: Gerador de Senhas aleatórias
   # HTML,CSS e JavaScript: Site Simples
