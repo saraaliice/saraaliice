@@ -61,8 +61,71 @@
     }
 }
 
-</details>
+<details>
+  <summary>Projeto Voo</summary>
+  <p>Construtor de classe Voo</p> 
+ public class Voo {
+    private int numeroVoo;
+    private String origem;
+    private String destino;
+    private String dataPartida;
+    private String horaPartida;
+    private int totalAssentos;
+    private int assentosDisponiveis;
+
+    public Voo(int numeroVoo, String origem, String destino, String dataPartida, String horaPartida, int totalAssentos) {
+        this.numeroVoo = numeroVoo;
+        this.origem = origem;
+        this.destino = destino;
+        this.dataPartida = dataPartida;
+        this.horaPartida = horaPartida;
+        this.totalAssentos = totalAssentos;
+        this.assentosDisponiveis = totalAssentos;
+    }
+
+    public boolean reservarAssento() {
+        if (assentosDisponiveis > 0) {
+            assentosDisponiveis--;
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    public void exibirInformacoes() {
+        System.out.println("Numero do Voo:" + numeroVoo);
+        System.out.println("Origem: " + origem);
+        System.out.println("Destino: " + destino);
+        System.out.println("Data: " + dataPartida);
+        System.out.println("HoraPartida:" + horaPartida);
+        System.out.println("Total de Assentos: " + totalAssentos);
+        System.out.println("Assentos Disponiveis: " + assentosDisponiveis);
+    }
+}
+
+ <details>
+  <summary>Projeto Programa Principal</summary>
+  <p>Construtor de classe programa Principal</p> 
+  public class ProgramaPrincipal {
+    public static void main(String[] args) {
+        Voo voo1 = new Voo(101, "Londrina", "São Paulo", "2023-11-15 10:00", 150);
+
+        // Realizar uma reserva de assento
+        if (voo1.reservarAssento()) {
+            System.out.println("Assento reservado com sucesso!");
+        } else {
+            System.out.println("Não há assentos disponíveis.");
+        }
+
+        // Exibir informações do voo
+        voo1.exibirInformacoes();
+    }
+}
+
+ <details>
+
   # JavaScript: Gerador de Senhas aleatórias
+  
   # HTML,CSS e JavaScript: Site Simples
 
 # Conhecimentos 
