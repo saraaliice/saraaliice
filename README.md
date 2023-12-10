@@ -47,7 +47,6 @@
 <details>
   <summary>Projeto da disciplina de Linguagem de
 Programação Orientado a Objetos </summary>
-  
   <details>
   <summary>Projeto Passageiro</summary>
   <p>Construtor de classe Passageiro</p> 
@@ -63,8 +62,6 @@ Programação Orientado a Objetos </summary>
         this.numeroDocumento = numeroDocumento;
         this.numeroTelefone = numeroTelefone;
     }
-
-
 <details>
   <summary>Projeto Voo</summary>
   <p>Construtor de classe Voo</p> 
@@ -105,8 +102,6 @@ Programação Orientado a Objetos </summary>
         System.out.println("Total de Assentos: " + totalAssentos);
         System.out.println("Assentos Disponiveis: " + assentosDisponiveis);
     }
-
-
  <details>
   <summary>Projeto Programa Principal</summary>
   <p>Construtor de classe programa Principal</p> 
@@ -128,11 +123,17 @@ Programação Orientado a Objetos </summary>
    }
     </details>
 </details>
--
 
-  ## JavaScript: Gerador de Senhas aleatórias
+ </details>
+  <details>
+    <summary>
+        <h3 align="center">Trava de Orçamento</h3>
+    </summary>
+    <summary>
+     
+  # JavaScript: Gerador de Senhas aleatórias
   
-  ## HTML,CSS e JavaScript: Site Simples
+  # HTML,CSS e JavaScript: Site Simples
 
 # Conhecimentos 
 -
