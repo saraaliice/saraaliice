@@ -117,8 +117,9 @@ CREATE TABLE TBReserva
 	FOREIGN KEY(CodObra) REFERENCES TBObra(CodObra),
 	FOREIGN KEY(CodUsuario) REFERENCES TBUsuario(CodUsuario)
 );
-  <img src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_Biblioteca.png" alt="Projeto Biblioteca" width="375" height="279"/>
 ````
+  <img src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_Biblioteca.png" alt="Projeto Biblioteca" width="375" height="279"/>
+
 </details>
 
 <details>
