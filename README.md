@@ -42,91 +42,99 @@
   <img src="https://github.com/saraaliice/saraaliice/blob/main/vagal_test.jpeg" alt="Banco de Dados Clientes" width="375" height="279"/>
 </details>
 
+ # Java:
+
+<details>
+  <summary>Projeto da disciplina de Linguagem de Programação Orientado a Objetos </summary>
   
-  # Java:
-<details>
-  <summary>Projeto da disciplina de Linguagem de
-Programação Orientado a Objetos </summary>
   <details>
-  <summary>Projeto Passageiro</summary>
-  <p>Construtor de classe Passageiro</p> 
+    <summary>Projeto Passageiro</summary>
+    <p>Construtor de classe Passageiro</p> 
    
-   public class Passageiro {
-    private String nome;
-    private String numeroDocumento;
-    private String numeroTelefone;
+    public class Passageiro {
+        private String nome;
+        private String numeroDocumento;
+        private String numeroTelefone;
 
-    // Construtor
-    public Passageiro(String nome, String numeroDocumento, String numeroTelefone) {
-        this.nome = nome;
-        this.numeroDocumento = numeroDocumento;
-        this.numeroTelefone = numeroTelefone;
-    }
-<details>
-  <summary>Projeto Voo</summary>
-  <p>Construtor de classe Voo</p> 
- public class Voo {
-    private int numeroVoo;
-    private String origem;
-    private String destino;
-    private String dataPartida;
-    private String horaPartida;
-    private int totalAssentos;
-    private int assentosDisponiveis;
-
-    public Voo(int numeroVoo, String origem, String destino, String dataPartida, String horaPartida, int totalAssentos) {
-        this.numeroVoo = numeroVoo;
-        this.origem = origem;
-        this.destino = destino;
-        this.dataPartida = dataPartida;
-        this.horaPartida = horaPartida;
-        this.totalAssentos = totalAssentos;
-        this.assentosDisponiveis = totalAssentos;
-    }
-
-    public boolean reservarAssento() {
-        if (assentosDisponiveis > 0) {
-            assentosDisponiveis--;
-            return true;
-        } else {
-            return false;
+        // Construtor
+        public Passageiro(String nome, String numeroDocumento, String numeroTelefone) {
+            this.nome = nome;
+            this.numeroDocumento = numeroDocumento;
+            this.numeroTelefone = numeroTelefone;
         }
-    }
+    </details>
 
-    public void exibirInformacoes() {
-        System.out.println("Numero do Voo:" + numeroVoo);
-        System.out.println("Origem: " + origem);
-        System.out.println("Destino: " + destino);
-        System.out.println("Data: " + dataPartida);
-        System.out.println("HoraPartida:" + horaPartida);
-        System.out.println("Total de Assentos: " + totalAssentos);
-        System.out.println("Assentos Disponiveis: " + assentosDisponiveis);
-    }
- <details>
-  <summary>Projeto Programa Principal</summary>
-  <p>Construtor de classe programa Principal</p> 
-  public class ProgramaPrincipal {
-    public static void main(String[] args) {
-        Voo voo1 = new Voo(101, "Londrina", "São Paulo", "2023-11-15 10:00", 150);
+   <details>
+      <summary>Projeto Voo</summary>
+      <p>Construtor de classe Voo</p> 
+      
+      public class Voo {
+          private int numeroVoo;
+          private String origem;
+          private String destino;
+          private String dataPartida;
+          private String horaPartida;
+          private int totalAssentos;
+          private int assentosDisponiveis;
 
-        // Realizar uma reserva de assento
-        if (voo1.reservarAssento()) {
-            System.out.println("Assento reservado com sucesso!");
-        } else {
-            System.out.println("Não há assentos disponíveis.");
-        }
+          public Voo(int numeroVoo, String origem, String destino, String dataPartida, String horaPartida, int totalAssentos) {
+              this.numeroVoo = numeroVoo;
+              this.origem = origem;
+              this.destino = destino;
+              this.dataPartida = dataPartida;
+              this.horaPartida = horaPartida;
+              this.totalAssentos = totalAssentos;
+              this.assentosDisponiveis = totalAssentos;
+          }
 
-        // Exibir informações do voo
-        voo1.exibirInformacoes();
-    }
+          public boolean reservarAssento() {
+              if (assentosDisponiveis > 0) {
+                  assentosDisponiveis--;
+                  return true;
+              } else {
+                  return false;
+              }
+          }
 
-   }
- </a> 
-  </p>
+          public void exibirInformacoes() {
+              System.out.println("Numero do Voo:" + numeroVoo);
+              System.out.println("Origem: " + origem);
+              System.out.println("Destino: " + destino);
+              System.out.println("Data: " + dataPartida);
+              System.out.println("HoraPartida:" + horaPartida);
+              System.out.println("Total de Assentos: " + totalAssentos);
+              System.out.println("Assentos Disponiveis: " + assentosDisponiveis);
+          }
+      }
+    </details>
+
+   <details>
+      <summary>Projeto Programa Principal</summary>
+      <p>Construtor de classe Programa Principal</p> 
+      
+      public class ProgramaPrincipal {
+          public static void main(String[] args) {
+              Voo voo1 = new Voo(101, "Londrina", "São Paulo", "2023-11-15 10:00", 150);
+
+              // Realizar uma reserva de assento
+              if (voo1.reservarAssento()) {
+                  System.out.println("Assento reservado com sucesso!");
+              } else {
+                  System.out.println("Não há assentos disponíveis.");
+              }
+
+              // Exibir informações do voo
+              voo1.exibirInformacoes();
+          }
+      }
+   </details>
 </details>
-   
-  # JavaScript: Gerador de Senhas aleatórias
-  # HTML,CSS e JavaScript: Site Simples
+
+# JavaScript: Gerador de Senhas aleatórias
+# HTML, CSS e JavaScript: Site Simples
+# Conhecimentos
+ 
+ 
 # Conhecimentos 
 -
     <p align="center"> Linguagens:</p>
