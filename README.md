@@ -186,7 +186,8 @@ function gerarSenha() {
     <summary>CSS</summary>
   <details>
     <summary>JavaScript</summary>
-      
+
+  </details>
 # Conhecimentos 
 -
     <p align="center"> Linguagens:</p>
