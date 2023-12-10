@@ -58,9 +58,9 @@
 
   <img src="https://github.com/saraaliice/saraaliice/blob/main/vagal_test.jpeg" alt="php" width="375" height="279"/>
   
-- Java:
-- JavaScript: Gerador de Senhas aleatórias
-- HTML,CSS e JavaScript: Site Simples
+  # Java:
+  # JavaScript: Gerador de Senhas aleatórias
+  # HTML,CSS e JavaScript: Site Simples
 
 # Conhecimentos 
 -
