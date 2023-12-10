@@ -182,9 +182,10 @@ function gerarSenha() {
   
   <details>
     <summary>HTML</summary>
-
   <details>
     <summary>CSS</summary>
+  <details>
+    <summary>JavaScript</summary>
       
 # Conhecimentos 
 -
