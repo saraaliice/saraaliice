@@ -18,44 +18,30 @@
 
 # Projetos:
 # Banco de dados e SQL:
-  
 <details>
   <summary>Projeto Biblioteca</summary>
   <p>Projeto de desenvolvimento de Banco de dados de uma Biblioteca</p>
   <img src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_Biblioteca.png" alt="Projeto Biblioteca" width="375" height="279"/>
 </details>
-- </details>
-  <details>
-    <summary>
-        <h3 align="center">Projeto Lógico</h3>
-    </summary>
-    <summary>
-        Projeto de desenvolvimento de Banco de dados 
-    </summary>  
- <img src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_L%C3%B3gito.png" alt="php" width="375" height="279"/>
-- </details>
-  <details>
-    <summary>
-        <h3 align="center">Teste Take Rate</h3>
-    </summary>
-    <summary>
-        Projeto de Take Rate para uma vaga 
-    </summary>  
 
-  <img src="https://github.com/saraaliice/saraaliice/blob/main/Imagem_teste.jpeg" alt="php" width="375" height="279"/>
-- </details>
-  <details>
-    <summary>
-        <h3 align="center">  Banco de Dados Clientes</h3>
-    </summary>
-    <summary>
-        Projeto de Banco de Dados 
-    </summary> 
-
-  <img src="https://github.com/saraaliice/saraaliice/blob/main/vagal_test.jpeg" alt="php" width="375" height="279"/>
-  </details>
-  </p>
+<details>
+  <summary>Projeto Lógico</summary>
+  <p>Projeto de desenvolvimento de Banco de dados</p>  
+  <img src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_L%C3%B3gito.png" alt="Projeto Lógico" width="375" height="279"/>
 </details>
+
+<details>
+  <summary>Teste Take Rate</summary>
+  <p>Projeto de Take Rate para uma vaga</p>  
+  <img src="https://github.com/saraaliice/saraaliice/blob/main/Imagem_teste.jpeg" alt="Teste Take Rate" width="375" height="279"/>
+</details>
+
+<details>
+  <summary>Banco de Dados Clientes</summary>
+  <p>Projeto de Banco de Dados</p> 
+  <img src="https://github.com/saraaliice/saraaliice/blob/main/vagal_test.jpeg" alt="Banco de Dados Clientes" width="375" height="279"/>
+</details>
+
   
   # Java:
   # JavaScript: Gerador de Senhas aleatórias
