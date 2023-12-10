@@ -17,7 +17,16 @@
  
 
 # Projetos:
-- Banco de dados e SQL: Projeto Editora - Projeto Lógico - Projeto Biblioteca e Campanha Marketing
+- Banco de dados e SQL:
+  Projeto Biblioteca 
+<img hight="400" width="400" alt="GIF" align="right" src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_Biblioteca.png">
+  Projeto Lógico
+  <img hight="400" width="400" alt="GIF" align="right" src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_L%C3%B3gito.png">
+  Teste Take Rate
+  <img hight="400" width="400" alt="GIF" align="right" src="https://github.com/saraaliice/saraaliice/blob/main/Imagem_teste.jpeg">
+  Banco de Dados Clientes
+  <img hight="400" width="400" alt="GIF" align="right" src="https://github.com/saraaliice/saraaliice/blob/main/vagal_test.jpeg">
+  
 - Java:
 - JavaScript: Gerador de Senhas aleatórias
 - HTML,CSS e JavaScript: Site Simples
