@@ -61,12 +61,14 @@
             this.numeroDocumento = numeroDocumento;
             this.numeroTelefone = numeroTelefone;
         }
+````
    </details>
 
    <details>
       <summary>Projeto Voo</summary>
-      <p>Construtor de classe Voo</p> 
-      
+      <p>Construtor de classe Voo</p>
+
+   ```Java
       public class Voo {
           private int numeroVoo;
           private String origem;
@@ -105,12 +107,14 @@
               System.out.println("Assentos Disponiveis: " + assentosDisponiveis);
           }
       }
+````
    </details>
 
    <details>
       <summary>Projeto Programa Principal</summary>
       <p>Construtor de classe Programa Principal</p> 
-      
+    
+       ```Java
       public class ProgramaPrincipal {
           public static void main(String[] args) {
               Voo voo1 = new Voo(101, "Londrina", "São Paulo", "2023-11-15 10:00", 150);
@@ -126,7 +130,7 @@
               voo1.exibirInformacoes();
           }
       }
-````
+`
    </details>
 </details>
 
