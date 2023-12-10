@@ -57,7 +57,7 @@
     </summary> 
 
   <img src="https://github.com/saraaliice/saraaliice/blob/main/vagal_test.jpeg" alt="php" width="375" height="279"/>
-  -
+    </summary> 
   
   # Java:
   # JavaScript: Gerador de Senhas aleatórias
