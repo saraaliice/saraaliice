@@ -174,6 +174,7 @@ function gerarSenha() {
 }
 
 ```
+   </details>
 </details>
 
 # HTML, CSS e JavaScript:
@@ -187,7 +188,8 @@ function gerarSenha() {
   <details>
     <summary>JavaScript</summary>
 
-  </details>
+   </details>
+</details>
 # Conhecimentos 
 `
     <p align="center"> Linguagens:</p>
