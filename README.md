@@ -47,6 +47,7 @@
 <details>
   <summary>Projeto da disciplina de Linguagem de
 Programação Orientado a Objetos </summary>
+ 
   <p>Desenvolvimento de um projeto com orientação a objetos</p> 
   
   <details>
