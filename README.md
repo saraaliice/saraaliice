@@ -124,10 +124,9 @@ Programação Orientado a Objetos </summary>
         // Exibir informações do voo
         voo1.exibirInformacoes();
     }
-
+>
   </details>
-  </p>
-</details>
+
 
   # JavaScript: Gerador de Senhas aleatórias
   
