@@ -44,6 +44,11 @@
 
   
   # Java:
+<details>
+  <summary>Projeto da disciplina de Linguagem de
+Programação Orientado a Objetos </summary>
+  <p>Desenvolvimento de um projeto com orientação a objetos</p> 
+  
   <details>
   <summary>Projeto Passageiro</summary>
   <p>Construtor de classe Passageiro</p> 
