@@ -178,18 +178,15 @@ function gerarSenha() {
 </details>
 
 # HTML, CSS e JavaScript:
+
 <details>
   <summary>Site Simples</summary>
-   <!-- Conteúdo do Site Simples -->
-  <details>
-    <summary>HTML</summary>
-  <details>
-    <summary>CSS</summary>
-  <details>
-    <summary>JavaScript</summary>
+  
+  <!-- Conteúdo do Site Simples -->
 
-   </details>
+</details>
 
+# Próximo Tópico
 
 # Conhecimentos 
 .
