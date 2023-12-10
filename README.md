@@ -27,7 +27,7 @@
     <summary>
         Projeto de desenvolvimento de Banco de dados de uma Biblioteca 
     </summary>  
-<img src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_Biblioteca.png" alt="php" width="375" height="279"/>
+ <img src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_Biblioteca.png" alt="php" width="375" height="279"/>
 - </details>
   <details>
     <summary>
