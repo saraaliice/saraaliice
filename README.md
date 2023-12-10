@@ -176,11 +176,13 @@ function gerarSenha() {
 ```
 </details>
 
-# HTML, CSS e JavaScript: Site Simples
+# HTML, CSS e JavaScript:
 <details>
   <summary>Site Simples</summary>
 </details>
-
+   <details>
+      <summary>HTML</summary>
+      
 # Conhecimentos 
 -
     <p align="center"> Linguagens:</p>
