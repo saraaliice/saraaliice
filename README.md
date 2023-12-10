@@ -179,9 +179,12 @@ function gerarSenha() {
 # HTML, CSS e JavaScript:
 <details>
   <summary>Site Simples</summary>
-</details>
-   <details>
-      <summary>HTML</summary>
+  
+  <details>
+    <summary>HTML</summary>
+
+  <details>
+    <summary>CSS</summary>
       
 # Conhecimentos 
 -
