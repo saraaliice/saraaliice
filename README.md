@@ -17,7 +17,7 @@
  
 
 # Projetos:
-- Banco de dados e SQL:
+# Banco de dados e SQL:
   
 - </details>
   <details>
