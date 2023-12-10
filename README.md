@@ -18,8 +18,17 @@
 
 # Projetos:
 - Banco de dados e SQL:
-  Projeto Biblioteca 
+- </details>
+  <details>
+    <summary>
+        <h3 align="center">Projeto Biblioteca</h3>
+    </summary>
+    <summary>
+        Projeto de desenvolvimento de Banco de dados de uma Biblioteca 
+    </summary>  
+  
 <img hight="279" width="375" alt="GIF" align="right" src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_Biblioteca.png">
+
   Projeto Lógico
   <img hight="400" width="400" alt="GIF" align="right" src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_L%C3%B3gito.png">
   Teste Take Rate
