@@ -3,11 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcb3b3&size=35&center=true&vCenter=true&width=1000&lines=print("Hello,world");Bem+Vindos+ao+Meu+Portfólio!+:%29)](https://git.io/typing-svg)
 
-# Sobre mim :
-
 # Meu nome é Sara Alice, Tenho 23 anos e Sou estudante de Análise e Desenvolvimento de Sistemas.
 
-<img hight="400" width="400" alt="GIF" align="right" src="https://cdn.discordapp.com/attachments/988904705117798463/1172724591781761075/Gifs.gif?ex=65615be2&is=654ee6e2&hm=a853892e22fd54ea9ef0f29fc9f3a54e8665d3b64ae4b28493fc707f10ad6ef5&">
+  <img src="https://cdn.discordapp.com/attachments/988904705117798463/1172724591781761075/Gifs.gif?ex=65615be2&is=654ee6e2&hm=a853892e22fd54ea9ef0f29fc9f3a54e8665d3b64ae4b28493fc707f10ad6ef5&" alt="GIF" width="375" height="279"/>
+
 
 # Aprendizado:
 - Introdução à Ciência da Computação
