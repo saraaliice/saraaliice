@@ -27,8 +27,7 @@
         Projeto de desenvolvimento de Banco de dados de uma Biblioteca 
     </summary>  
   
-<img hight="279" width="375" alt="GIF" align="right" src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_Biblioteca.png">
-
+<img src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_Biblioteca.png" alt="php" width="375" height="279"/>
 - </details>
   <details>
     <summary>
@@ -37,8 +36,7 @@
     <summary>
         Projeto de desenvolvimento de Banco de dados 
     </summary>  
- <img hight="279" width="375" alt="GIF" align="right" src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_L%C3%B3gito.png">
-
+ <img src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_L%C3%B3gito.png" alt="php" width="375" height="279"/>
 - </details>
   <details>
     <summary>
@@ -48,8 +46,7 @@
         Projeto de Take Rate para uma vaga 
     </summary>  
 
-  <img hight="279" width="375" alt="GIF" align="right" src="https://github.com/saraaliice/saraaliice/blob/main/Imagem_teste.jpeg">
-  
+  <img src="https://github.com/saraaliice/saraaliice/blob/main/Imagem_teste.jpeg" alt="php" width="375" height="279"/>
 - </details>
   <details>
     <summary>
@@ -59,7 +56,7 @@
         Projeto de Banco de Dados 
     </summary> 
 
-  <img hight="279" width="375" alt="GIF" align="right" src="https://github.com/saraaliice/saraaliice/blob/main/vagal_test.jpeg">
+  <img src="https://github.com/saraaliice/saraaliice/blob/main/vagal_test.jpeg" alt="php" width="375" height="279"/>
   
 - Java:
 - JavaScript: Gerador de Senhas aleatórias
