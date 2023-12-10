@@ -234,13 +234,6 @@ function gerarSenha() {
   </p>
 </details>
 
-# Status
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saraaliice&bg_color=0d1117&color=ffffff&line=f28282&point=f28282&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saraaliice&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 # Contatos
 
    <div align="center"> 
