@@ -131,7 +131,7 @@
 # JavaScript: 
 <details>
   <summary>Gerador de Senhas aleatórias</summary>
- let comprimentoInput = document.getElementById("comprimento");
+let comprimentoInput = document.getElementById("comprimento");
 let incluirNumeros = document.getElementById("incluirNumeros");
 let incluirLetrasMaiusculas = document.getElementById("incluirLetrasMaiusculas");
 let incluirLetrasMinusculas = document.getElementById("incluirLetrasMinusculas");
