@@ -29,12 +29,37 @@
   
 <img hight="279" width="375" alt="GIF" align="right" src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_Biblioteca.png">
 
-  Projeto Lógico
-  <img hight="400" width="400" alt="GIF" align="right" src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_L%C3%B3gito.png">
-  Teste Take Rate
-  <img hight="400" width="400" alt="GIF" align="right" src="https://github.com/saraaliice/saraaliice/blob/main/Imagem_teste.jpeg">
-  Banco de Dados Clientes
-  <img hight="400" width="400" alt="GIF" align="right" src="https://github.com/saraaliice/saraaliice/blob/main/vagal_test.jpeg">
+- </details>
+  <details>
+    <summary>
+        <h3 align="center">Projeto Lógico</h3>
+    </summary>
+    <summary>
+        Projeto de desenvolvimento de Banco de dados 
+    </summary>  
+ <img hight="279" width="375" alt="GIF" align="right" src="https://github.com/saraaliice/saraaliice/blob/main/Projeto_L%C3%B3gito.png">
+
+- </details>
+  <details>
+    <summary>
+        <h3 align="center">Teste Take Rate</h3>
+    </summary>
+    <summary>
+        Projeto de Take Rate para uma vaga 
+    </summary>  
+
+  <img hight="279" width="375" alt="GIF" align="right" src="https://github.com/saraaliice/saraaliice/blob/main/Imagem_teste.jpeg">
+  
+- </details>
+  <details>
+    <summary>
+        <h3 align="center">  Banco de Dados Clientes</h3>
+    </summary>
+    <summary>
+        Projeto de Banco de Dados 
+    </summary> 
+
+  <img hight="279" width="375" alt="GIF" align="right" src="https://github.com/saraaliice/saraaliice/blob/main/vagal_test.jpeg">
   
 - Java:
 - JavaScript: Gerador de Senhas aleatórias
