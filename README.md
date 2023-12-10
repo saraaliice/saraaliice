@@ -59,7 +59,7 @@
         this.numeroDocumento = numeroDocumento;
         this.numeroTelefone = numeroTelefone;
     }
-}
+
 
 <details>
   <summary>Projeto Voo</summary>
@@ -101,7 +101,7 @@
         System.out.println("Total de Assentos: " + totalAssentos);
         System.out.println("Assentos Disponiveis: " + assentosDisponiveis);
     }
-}
+
 
  <details>
   <summary>Projeto Programa Principal</summary>
@@ -120,7 +120,7 @@
         // Exibir informações do voo
         voo1.exibirInformacoes();
     }
-}
+
 
  <details>
 
