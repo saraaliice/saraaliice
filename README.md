@@ -269,7 +269,7 @@ CREATE TABLE TBFuncionarioProjeto
   <summary>Projeto da disciplina de Linguagem de Programação Orientado a Objetos </summary>
   
   <details>
-    <summary>Projeto Passageiro</summary>
+    <summary>Passageiro</summary>
     <p>Construtor de classe Passageiro</p> 
    
    ```Java
@@ -288,7 +288,7 @@ CREATE TABLE TBFuncionarioProjeto
    </details>
 
    <details>
-      <summary>Projeto Voo</summary>
+      <summary>Voo</summary>
       <p>Construtor de classe Voo</p>
 
    ```Java
@@ -334,7 +334,7 @@ CREATE TABLE TBFuncionarioProjeto
    </details>
 
    <details>
-      <summary>Projeto Programa Principal</summary>
+      <summary>Programa Principal</summary>
       <p>Construtor de classe Programa Principal</p> 
     
   ````Java
