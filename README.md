@@ -13,7 +13,7 @@
 - Lógica de Programação
 
 # Projetos:
-# Banco de dados e SQL:
+# Banco de dados e SQL
 <details>
   <summary>Projeto Biblioteca</summary>
   <p>Projeto de desenvolvimento de Banco de dados de uma Biblioteca</p>
@@ -263,7 +263,7 @@ CREATE TABLE TBFuncionarioProjeto
   <img src="https://github.com/saraaliice/saraaliice/blob/main/vagal_test.jpeg" alt="Banco de Dados Clientes" width="375" height="279"/>
 </details>
 
- # Java:
+ # Java
 
 <details>
   <summary>Projeto da disciplina de Linguagem de Programação Orientado a Objetos </summary>
@@ -357,7 +357,7 @@ CREATE TABLE TBFuncionarioProjeto
    </details>
 </details>
 
-# JavaScript: 
+# JavaScript 
 <details>
   <summary>Gerador de Senhas aleatórias</summary>
  
@@ -400,7 +400,7 @@ function gerarSenha() {
    </details>
 </details>
 
-# HTML, CSS e JavaScript:
+# HTML, CSS e JavaScript
 
 <details>
   <summary>Site Simples</summary>
