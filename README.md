@@ -278,7 +278,6 @@ CREATE TABLE TBFuncionarioProjeto
         private String numeroDocumento;
         private String numeroTelefone;
 
-        // Construtor
         public Passageiro(String nome, String numeroDocumento, String numeroTelefone) {
             this.nome = nome;
             this.numeroDocumento = numeroDocumento;
@@ -342,14 +341,13 @@ CREATE TABLE TBFuncionarioProjeto
           public static void main(String[] args) {
               Voo voo1 = new Voo(101, "Londrina", "São Paulo", "2023-11-15 10:00", 150);
 
-              // Realizar uma reserva de assento
               if (voo1.reservarAssento()) {
                   System.out.println("Assento reservado com sucesso!");
               } else {
                   System.out.println("Não há assentos disponíveis.");
               }
 
-              // Exibir informações do voo
+
               voo1.exibirInformacoes();
           }
       }
@@ -357,57 +355,6 @@ CREATE TABLE TBFuncionarioProjeto
    </details>
 </details>
 
-# JavaScript 
-<details>
-  <summary>Gerador de Senhas aleatórias</summary>
- 
-```javascript
-let comprimentoInput = document.getElementById("comprimento");
-let incluirNumeros = document.getElementById("incluirNumeros");
-let incluirLetrasMaiusculas = document.getElementById("incluirLetrasMaiusculas");
-let incluirLetrasMinusculas = document.getElementById("incluirLetrasMinusculas");
-let incluirSimbolos = document.getElementById("incluirSimbolos");
-let botaoGerar = document.getElementById("botaoGerar");
-let exibicaoSenha = document.getElementById("exibicaoSenha");
-
-botaoGerar.addEventListener("click", gerarSenha);
-
-function gerarSenha() {
-    let comprimento = comprimentoInput.value;
-    let numeros = "123456789";
-    let letrasMaiusculas = "ABCDEFGHIJKLMNOPQRSTUVWXZ";
-    let letrasMinusculas = "abcdefghijklmnopqrstuvwxz";
-    let simbolos = "!@#$%?*;+_^~";
-
-    let caracteres = "";
-
-    if (incluirNumeros.checked) caracteres += numeros;
-    if (incluirLetrasMaiusculas.checked) caracteres += letrasMaiusculas;
-    if (incluirLetrasMinusculas.checked) caracteres += letrasMinusculas;
-    if (incluirSimbolos.checked) caracteres += simbolos;
-
-    let senha = "";
-
-    for (let i = 0; i < comprimento; i++) {
-        const indiceAleatorio = Math.floor(Math.random() * caracteres.length);
-        senha += caracteres[indiceAleatorio];
-    }
-
-    exibicaoSenha.textContent = senha;
-}
-
-```
-   </details>
-</details>
-
-# HTML, CSS e JavaScript
-
-<details>
-  <summary>Site Simples</summary>
-  
-  <!-- Conteúdo do Site Simples -->
-
-</details>
 
 # Conhecimentos 
 .
