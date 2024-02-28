@@ -6,14 +6,14 @@
 
 <img src="https://cdn.discordapp.com/attachments/988904705117798463/1172724591781761075/Gifs.gif?ex=65615be2&is=654ee6e2&hm=a853892e22fd54ea9ef0f29fc9f3a54e8665d3b64ae4b28493fc707f10ad6ef5&" alt="GIF" width="350" height="350" style="float: right;"/>
 
-# Aprendizado:
-- Introdução à Ciência da Computação
-- Linguagem de Programação Python
-- Introdução ao uso de Banco de Dados e SQL
-- Lógica de Programação
+# Learning:
+-Introduction to Computer Science
+-Python Programming Language
+-Introduction to Database Usage and SQL
+-Programming Logic
 
-# Projetos:
-# Banco de dados e SQL
+# Projects:
+# Database and SQL
 <details>
   <summary>Projeto Biblioteca</summary>
   <p>Projeto de desenvolvimento de Banco de dados de uma Biblioteca</p>
@@ -122,8 +122,8 @@ CREATE TABLE TBReserva
 </details>
 
 <details>
-  <summary>Projeto Lógico</summary>
-  <p>Projeto de desenvolvimento de Banco de dados</p>
+  <summary>Logic Project</summary>
+  <p>Database development project</p>
 	
 ```SQL
 */
@@ -253,24 +253,24 @@ CREATE TABLE TBFuncionarioProjeto
 
 <details>
   <summary>Teste Take Rate</summary>
-  <p>Projeto de Take Rate para uma vaga</p>  
+  <p>Take Rate project for a vacancy</p>  
   <img src="https://github.com/saraaliice/saraaliice/blob/main/Imagem_teste.jpeg" alt="Teste Take Rate" width="375" height="279"/>
 </details>
 
 <details>
-  <summary>Banco de Dados Clientes</summary>
-  <p>Projeto de Banco de Dados</p> 
+  <summary>Customer Database</summary>
+  <p>Database Project</p> 
   <img src="https://github.com/saraaliice/saraaliice/blob/main/vagal_test.jpeg" alt="Banco de Dados Clientes" width="375" height="279"/>
 </details>
 
  # Java
 
 <details>
-  <summary>Projeto da disciplina de Linguagem de Programação Orientado a Objetos </summary>
+  <summary>Project for the Object-Oriented Programming Language course </summary>
   
   <details>
     <summary>Passageiro</summary>
-    <p>Construtor de classe Passageiro</p> 
+    <p>Passenger class constructor</p> 
    
    ```Java
     public class Passageiro {
@@ -288,7 +288,7 @@ CREATE TABLE TBFuncionarioProjeto
 
    <details>
       <summary>Voo</summary>
-      <p>Construtor de classe Voo</p>
+      <p>Flight class constructor</p>
 
    ```Java
       public class Voo {
@@ -333,8 +333,8 @@ CREATE TABLE TBFuncionarioProjeto
    </details>
 
    <details>
-      <summary>Programa Principal</summary>
-      <p>Construtor de classe Programa Principal</p> 
+      <summary>Main Program</summary>
+      <p>Main Program class constructor</p> 
     
   ````Java
       public class ProgramaPrincipal {
