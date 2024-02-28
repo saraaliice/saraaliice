@@ -8,8 +8,11 @@
 
 # Learning:
 -Introduction to Computer Science
+
 -Python Programming Language
+
 -Introduction to Database Usage and SQL
+
 -Programming Logic
 
 # Projects:
