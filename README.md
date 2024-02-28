@@ -18,8 +18,8 @@
 # Projects:
 # Database and SQL
 <details>
-  <summary>Projeto Biblioteca</summary>
-  <p>Projeto de desenvolvimento de Banco de dados de uma Biblioteca</p>
+  <summary>Library Project</summary>
+  <p>Library Database development project</p>
   
   ```SQL 
   --Criar tabela TBObra
