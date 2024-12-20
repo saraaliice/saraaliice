@@ -4,14 +4,11 @@
 
 # My name is Sara Alice, I'm 24 years old, and I'm a student of Analysis and Systems Development.
 
-<div style="display: flex; justify-content: space-between; align-items: center; height: 200vh;">
-    <div>
-        <p style="font-size: 40px; text-align: center;"> My name is Sara Alice, I'm 24 years old, and I'm a student of Analysis and Systems Development</p>
-    </div>
-    <img src="https://camo.githubusercontent.com/c7adee5e8acf51b0e4708a645087aa12ba6660513618e1d2bc89e2e2878011d3/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3938383930343730353131373739383436332f313331393636393434383337333833333833382f476966735f312e6769663f65783d36373636636437322669733d363736353762663226686d3d3935326431343461353235663965356634323039333035316263653537623238366536653230643432353566633364333739303334333636633138396539353326" 
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="https://cdn.discordapp.com/attachments/988904705117798463/1215726265219289108/Gifs_1.gif?ex=67665e90&is=67650d10&hm=5a696a6c18c9ba5fd52aa9973c4a2c8a36391b74159fd09fbbd23fce5b8ce489&" 
          alt="GIF" 
-         width="300" 
-         height="300"/>
+         width="350" 
+         height="350" />
 </div>
 
 
