@@ -4,7 +4,7 @@
 
 # My name is Sara Alice, I'm 24 years old, and I'm a student of Analysis and Systems Development.
 
-<div style="display: flex; justify-content: space-between; align-items: center; height: 100vh;">
+<div style="display: flex; justify-content: space-between; align-items: center; height: 200vh;">
     <div>
         <p style="font-size: 40px; text-align: center;"> My name is Sara Alice, I'm 24 years old, and I'm a student of Analysis and Systems Development</p>
     </div>
