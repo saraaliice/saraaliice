@@ -4,7 +4,7 @@
 
 # My name is Sara Alice, I'm 24 years old, and I'm a student of Analysis and Systems Development.
 
-<img src="https://cdn.discordapp.com/attachments/988904705117798463/1215726265219289108/Gifs_1.gif?ex=66104150&is=65fdcc50&hm=c4b632bc1be0cb6f11ce8cd77e837d87339e15107ad9d67ed4f72cbf4fbd5f33&" alt="GIF" width="350" height="350" style="float: right;"/>
+<img src="https://cdn.discordapp.com/attachments/988904705117798463/1215726265219289108/Gifs_1.gif?ex=67665e90&is=67650d10&hm=5a696a6c18c9ba5fd52aa9973c4a2c8a36391b74159fd09fbbd23fce5b8ce489&" alt="GIF" width="350" height="350" style="float: right;"/>
 
 # Learning:
 -Introduction to Computer Science
