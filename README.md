@@ -5,10 +5,10 @@
 # My name is Sara Alice, I'm 24 years old, and I'm a student of Analysis and Systems Development.
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="https://cdn.discordapp.com/attachments/988904705117798463/1215726265219289108/Gifs_1.gif?ex=67665e90&is=67650d10&hm=5a696a6c18c9ba5fd52aa9973c4a2c8a36391b74159fd09fbbd23fce5b8ce489&" 
+    <img src="https://cdn.discordapp.com/attachments/988904705117798463/1319669448373833838/Gifs_1.gif?ex=6766cd72&is=67657bf2&hm=952d144a525f9e5f42093051bce57b286e6e20d4255fc3d379034366c189e953&" 
          alt="GIF" 
-         width="350" 
-         height="350" />
+         width="450" 
+         height="450" />
 </div>
 
 
