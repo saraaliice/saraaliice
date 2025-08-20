@@ -385,7 +385,6 @@ CREATE TABLE TBFuncionarioProjeto
  <p align="center">Banco de Dados:
   </p>
   <p align="center"> 
-    <a href="https://sqlitebrowser.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/988904705117798463/1172723304575025303/db-browser-for-sqlite-logo.png?ex=65615aaf&is=654ee5af&hm=45b468a2830b450df05223f3ae8fd1176b9593e2059ba29bc66cf66b57ae3cf9&" <alt="db browser" width="40" height="40"/></a> 
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   </p>
