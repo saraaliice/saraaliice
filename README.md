@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fcb3b3&size=35&center=true&vCenter=true&width=1000&lines=print("Hello,world");Welcome+to+My+Portfolio!+:%29)](https://git.io/typing-svg)
 
-# My name is Sara Alice, I'm 24 years old, and I'm a student of Analysis and Systems Development.
+# My name is Sara Alice, I'm 25 years old, and I'm a student of Analysis and Systems Development.
 
 <div style="display: flex; justify-content: flex-end; align-items: center; height: 100vh;">
     <img src="https://cdn.discordapp.com/attachments/988904705117798463/1319669448373833838/Gifs_1.gif?ex=6766cd72&is=67657bf2&hm=952d144a525f9e5f42093051bce57b286e6e20d4255fc3d379034366c189e953&" 
